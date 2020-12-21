@@ -1,0 +1,17 @@
+hcl:#ae17e1 iyr:2013
+eyr:2024
+ecl:brn pid:760753108 byr:1931
+hgt:179cm
+cid:124
+
+hcl:#e17e1 iyr:2013
+eyr:20200
+ecl:bon pid:60753108 byr:1931
+hgt:70in
+cid:124
+
+hcl:#Ze17e1 iyr:2013
+eyr:2024
+ecl:brn pid:760753108 byr:1931
+hgt:179cm
+cid:124

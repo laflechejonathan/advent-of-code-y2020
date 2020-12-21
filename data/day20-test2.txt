@@ -1,0 +1,44 @@
+Tile 1:
+xxx
+y1y
+zzz
+
+Tile 2:
+xxx
+y2y
+zzz
+
+Tile 3:
+xxx
+y3y
+zzz
+
+Tile 4:
+zzz
+a1a
+bbb
+
+Tile 5:
+zzz
+a2a
+bbb
+
+Tile 6:
+zzz
+a3a
+bbb
+
+Tile 7:
+bbb
+x1x
+ccc
+
+Tile 8:
+bbb
+x2x
+ccc
+
+Tile 9:
+bbb
+x3x
+ccc
